@@ -174,7 +174,7 @@ $('document').ready(function(){
 		});
 
 	$('#next').click(function(){
-		window.location.href = 'http://www.example.com';
+		window.location.href = 'http://www.86182.fun/3/birthday.html';
 		});
 
 		var i;
